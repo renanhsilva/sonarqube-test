@@ -7,3 +7,5 @@ def gerar_nome_gato():
 # Exemplo de uso
 for _ in range(5):
     print(gerar_nome_gato())
+
+print("teste sonar")
